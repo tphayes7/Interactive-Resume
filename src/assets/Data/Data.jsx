@@ -295,6 +295,29 @@ const boxData = {
             )
         },
         {
+            divId: 'full-stack',
+            title: 'Full-Stack Engineer Topics',
+            data: (
+                <>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSSs</li>
+                        <li>JavaScript</li>
+                        <li>Git and GitHub</li>
+                        <li>React</li>
+                        <li>Redux</li>
+                        <li>Node.js</li>
+                        <li>Express.js</li>
+                        <li>SQL</li>
+                        <li>PostgreSQL</li>
+                        <li>Web Security</li>
+                        <li>Data Structures</li>
+                        <li>Algorithms</li>
+                    </ul>
+                </>
+            )
+        },
+        {
             divId: 'exemplary-2021',
             title: 'Exemplary Project Recognition 2021',
             data: (

@@ -35,6 +35,7 @@ function App() {
   document.getElementById('dev').onclick = retrieveBoxData;
   document.getElementById('carpenter').onclick = retrieveBoxData;
   document.getElementById('general').onclick = retrieveBoxData;
+  document.getElementById('full-stack').onclick = retrieveBoxData;
   document.getElementById('exemplary-2021').onclick = retrieveBoxData;
   document.getElementById('exemplary-2022').onclick = retrieveBoxData;
   document.getElementById('HFBC').onclick = retrieveBoxData;
