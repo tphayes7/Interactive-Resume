@@ -164,6 +164,79 @@ const boxData = {
             )
         },
         {
+            divId: 'full-stack',
+            title: 'Full-Stack Engineer',
+            data: (
+                <>
+                    <p><strong>Issuer:</strong> <a href="https://www.codecademy.com/" target="_blank">Codecademy.com</a></p>
+                    <p><strong>Issue Date:</strong> April 24, 2024</p>
+                    <p><strong>Covered Topics:</strong></p>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSSs</li>
+                        <li>JavaScript</li>
+                        <li>Git and GitHub</li>
+                        <li>React</li>
+                        <li>Redux</li>
+                        <li>Node.js</li>
+                        <li>Express.js</li>
+                        <li>SQL</li>
+                        <li>PostgreSQL</li>
+                        <li>Web Security</li>
+                        <li>Data Structures</li>
+                        <li>Algorithms</li>
+                    </ul>
+                </>
+            )
+        },
+        {
+            divId: 'front-end',
+            title: 'Front-End Engineer',
+            data: (
+                <>
+                    <p><strong>Issuer:</strong> <a href="https://www.codecademy.com/" target="_blank">Codecademy.com</a></p>
+                    <p><strong>Issue Date:</strong> May 1, 2024</p>
+                    <p><strong>Covered Topics:</strong></p>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSSs</li>
+                        <li>JavaScript</li>
+                        <li>Git and GitHub</li>
+                        <li>Web Design</li>
+                        <li>React</li>
+                        <li>Redux</li>
+                        <li>Build Tools</li>
+                        <li>Data Structures</li>
+                        <li>Algorithms</li>
+                    </ul>
+                </>
+            )
+        },
+        {
+            divId: 'back-end',
+            title: 'Back-End Engineer',
+            data: (
+                <>
+                    <p><strong>Issuer:</strong> <a href="https://www.codecademy.com/" target="_blank">Codecademy.com</a></p>
+                    <p><strong>Issue Date:</strong> May 3, 2024</p>
+                    <p><strong>Covered Topics:</strong></p>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSSs</li>
+                        <li>JavaScript</li>
+                        <li>Node.js</li>
+                        <li>Express.js</li>
+                        <li>SQL</li>
+                        <li>PostgreSQL</li>
+                        <li>Web Security</li>
+                        <li>Software Infrastructure and Scalability</li>
+                        <li>Data Structures</li>
+                        <li>Algorithms</li>
+                    </ul>
+                </>
+            )
+        },
+        {
             divId: 'reyrey-header',
             title: 'Reynolds and Reynolds',
             data: (
@@ -291,29 +364,6 @@ const boxData = {
             data: (
                 <>
                     <p>If you've ever worked for a small non-profit, you may have found that job descriptions are a bit fuzzy at times.  There are any number of things that pop up that someone needs to do, but no one is necessarily assigned to do.  So if you're in that situation, and something comes up that you know how to handle, you do it even if it's not in your job description.  So, over the years, I did a lot of things that weren't really part of any particular job.  As they say in the theater:  the show must go on.</p>
-                </>
-            )
-        },
-        {
-            divId: 'full-stack',
-            title: 'Full-Stack Engineer Topics',
-            data: (
-                <>
-                    <ul>
-                        <li>HTML</li>
-                        <li>CSSs</li>
-                        <li>JavaScript</li>
-                        <li>Git and GitHub</li>
-                        <li>React</li>
-                        <li>Redux</li>
-                        <li>Node.js</li>
-                        <li>Express.js</li>
-                        <li>SQL</li>
-                        <li>PostgreSQL</li>
-                        <li>Web Security</li>
-                        <li>Data Structures</li>
-                        <li>Algorithms</li>
-                    </ul>
                 </>
             )
         },
