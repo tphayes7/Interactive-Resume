@@ -20,7 +20,7 @@ const boxData = {
             title: 'My Story',
             data: (
                 <>
-                    <p>If you just take a quick glance at my resume, you might be wondering what exactly it is that I do.  I've done a little bit of a lot of things:  theater, carpentry, teaching, administrative...  Right now I'm looking for software development positions.  So, how exactly did I get here?  Well, that's a bit of a story:</p>
+                    <p>If you just take a quick glance at my resume, you might be wondering what exactly it is that I do.  I've done a little bit of a lot of things:  theater, carpentry, teaching, administrative...  Right now I'm looking for a software development internship.  So, how exactly did I get here?  Well, that's a bit of a story:</p>
                     <br />
                     <p>Some people will tell you that people are naturally either logical or creative, left-brained or right-brained.  Personally, I've always been a bit of both.  I enjoyed math and science as a kid, but I also always liked to create things and use my imagination.  As an illustration, here was my class lineup my senior year in high school:  AP Calculus (BC), AP Chemistry, AP Physics, Advanced Programming, and Drama IV.  All my teachers thought I should go into their respective fields, but ultimately I decided on theater.</p>
                     <br />
@@ -38,7 +38,9 @@ const boxData = {
                     <br />
                     <p>So, finally, I have arrived at my first experience with professional software development.  The team I was assigned to worked on the front-end and top-level server layers of the F&I Application, which were written in COBOL and Pick BASIC.  Both of these languages were unfamiliar to me at the time, which meant I had to learn on the job.  Additionally, I had to learn the specific coding standards I was expected to abide by, and familiarize myself with the existing processes of the F&I Application.  Although there was a bit of a learning curve, I did eventually become proficient as an Application Developer, and was even considered the expert on some processes.  During my time there, I helped integrate two new features and completely re-wrote the eContracting process, in addition to numerous smaller modifications and bug fixes.</p>
                     <br />
-                    <p>Although I found myself both enjoying and excelling at software development, I eventually had to leave for personal reasons.  After 15 years in Houston, I found that my community of friends had slowly evaporated over time, and so I decided to move back home to be closer to family.  Reynolds and Reynolds, unfortunately, was not willing to allow me to work fully remote, so I had to walk away from that position.  Which is how we get to today.  I have just under 4 years of professional software development experience, plus additional learning through high school, self-study, and Codecademy.  I'm not sure what's next; maybe you can help me out with that.</p>
+                    <p>Although I found myself both enjoying and excelling at software development, I eventually had to leave for personal reasons.  After 15 years in Houston, I found that my community of friends had slowly evaporated over time, and so I decided to move back home to be closer to family.  Reynolds and Reynolds, unfortunately, was not willing to allow me to work fully remote, so I had to walk away from that position.</p>
+                    <br />
+                    <p>And so, I found myself back in Oklahoma without a job.  To me, this seemed like an opportunity, because it allowed me to return to my alma mater for a degree in Computer Science.  Although I already have 4 years of professional software development experience, as well as additional training via Codecademy, I felt that pursuing a formal degree would help fill in some of the gaps in my software education.  Ultimately, I believe this will make me a better programmer, and I hope to further that development during my studies through an internship.</p>
                 </>
             )
         },
@@ -160,6 +162,24 @@ const boxData = {
             data: (
                 <>
                     <p>As they say in Houston, "This ain't my first rodeo."  I've been working in some capacity since I was in college, about 20 years ago.  Over the years I've run into my fair share of challenges to overcome, difficult conversations, and been tempted many times to cut corners or pass the buck.  But at the end of the day, I'd rather go into the office, do good work, and go home feeling like I accomplished something, rather than spending all day avoiding my responsibilities.  I strive to communicate both thoroughly and respectfully, and would much prefer to see my coworkers as friends and colleagues than as rivals.  If this is the kind of environment you want to cultivate, I like to think I'd be a good addition to your team.</p>
+                </>
+            )
+        },
+        {
+            divId: 'tutorcom-header',
+            title: 'Tutor.com',
+            data: (
+                <>
+                    <p><a href="https://www.tutor.com/" target="_blank">Tutor.com</a> is an online tutoring platform that provides learning assistance in a variety of subjects to students from elementary school through college.</p>
+                </>
+            )
+        },
+        {
+            divId: 'tutor',
+            title: 'Tutor',
+            data: (
+                <>
+                    <p>As a tutor, I help students in a variety of math subjects.  This includes basic arithmetic, algebra I and II, and geometry, among others.</p>
                 </>
             )
         },
@@ -295,6 +315,78 @@ const boxData = {
             )
         },
         {
+            divId: 'obu-cis',
+            title: 'Oklahoma Baptist University, Computer Science',
+            data: (
+                <>
+                    <p><a href="https://www.okbu.edu/" target="_blank">OBU</a> is a small, private Christian college in Shawnee, OK.  OBU is a liberal arts college, so I was expected to take courses in many different subjects while there, in addition to those specifically required for my major.  This included classes in business, management, and economics.</p>
+                    <br />
+                    <p>As a computer science major, I am required to have a working knowledge of several programming languages, including Python, Java, and JavaScript, among others.  While there are classes for these specific languages, it was determined that I was proficient prior to my enrollment, and so I was not required to take them.  Additionally, this degree requires study in web design, computational circuits, operating systems, data science, and AI.</p>
+                </>
+            )
+        },
+        {
+            divId: 'obu-thea',
+            title: 'Oklahoma Baptist University, Theater',
+            data: (
+                <>
+                    <p><a href="https://www.okbu.edu/" target="_blank">OBU</a> is a small, private Christian college in Shawnee, OK.  OBU is a liberal arts college, so I was expected to take courses in many different subjects while there, in addition to those specifically required for my major.  This included classes in history, literature, philosophy, sociology, and Biblical studies.  I did not have to take any science or math courses because I made a 5 of both the AP Calculus (BC) and AP Chemistry exams.  However, since I got a minor in Mathematics, I took math classes anyway.</p>
+                    <br />
+                    <p>As a theatre major, I took a wide variety of classes.  It was not just a bunch of acting classes, although I did have 4 of those.  I also took classes in scene design, lighting design, costume design, makeup design, directing, and theater history.  For my math minor, I took Calc 3, Calc 4, Differential Equations, and Numerical Analysis.</p>
+                </>
+            )
+        },
+
+        {
+            divId: 'exemplary-2021',
+            title: 'Exemplary Project Recognition 2021',
+            data: (
+                <>
+                    <p>The Exemplary Project Recognition is awarded to those who worked on a project that had an outsized benefit to the company and its customers.  In 2021, I was part of the team that integrated OneSpan into our F&I Application.  OneSpan is a web-based signing platform; integrating it allowed paperwork to be signed when the buyer was not physically at the car dealership.  This was particularly timely in light of COVID lockdowns.</p>
+                    <br />
+                    <p>My particular part in this project was to build the two specs screens associated with the new service, building out the OneSpan reports processing, and helping with the processing to prepare the form and send it to OneSpan.</p>
+                </>
+            )
+        },
+        {
+            divId: 'exemplary-2022',
+            title: 'Exemplary Project Recognition 2022',
+            data: (
+                <>
+                    <p>The Exemplary Project Recognition is awarded to those who worked on a project that had an outsized benefit to the company and its customers.  In 2022, I was part of the team that integrated <a href="https://www.reyrey.com/solutions/online-retailing/virtual-retailing" target="_blank">Gubagoo</a> into the existing applications.  Gubagoo allows options selected by the buyer online to automatically populate deals that can be used by salespeople at the dealership.</p>
+                    <br />
+                    <p>My part in this project was to create the process by which specs settings selected on the Gubagoo server were synced with the specs settings selected on the F&I server.  This insured that calculations presented to the buyer would match those presented through the F&I application to the dealership.</p>
+                </>
+            )
+        },
+        {
+            divId: 'HFBC',
+            title: "Houston's First Baptist Church",
+            data: (
+                <>
+                    <p><a href="https://houstonsfirst.org/" target="_blank">Houston's First Baptis Church</a> has several locations throughout Houston.  I went to the Loop location, located at I-10 and the 610 West Loop.  During my time there, I went to various classes in the Summit Singles group, as well as teaching in the children's ministry.</p>
+                </>
+            )
+        },
+        {
+            divId: 'associate-dir',
+            title: 'Associate Director for Axiom Class',
+            data: (
+                <>
+                    <p>As Associate Director I participated in leadership meetings, helped plan events, made announcements, created the calendar, and generally was expected to be active and involved with the class.  I was also expected to provide a good example of Christian service to the class.</p>
+                </>
+            )
+        },
+        {
+            divId: 'kids-worship',
+            title: "Teacher for Kids' Worship",
+            data: (
+                <>
+                    <p>Kids' Worship should not be confused with regular Sunday School classes.  We did have those for the kids, but Kids' Worship was the group worship service, rather than the small group class.  Program generally involved many short segments of teaching, singing, videos, and playing games.  My job was to help with the teaching, which meant I would go over our Bible verse, Bible story, and "Life Point" with the kids, and generally facilitate the flow of the service.  When not on stage, I was in the audience monitoring behavior and helping when the kids needed something.</p>
+                </>
+            )
+        },
+        {
             divId: 'full-stack',
             title: 'Full-Stack Engineer',
             data: (
@@ -389,66 +481,6 @@ const boxData = {
                 </>
             )
         },
-        {
-            divId: 'exemplary-2021',
-            title: 'Exemplary Project Recognition 2021',
-            data: (
-                <>
-                    <p>The Exemplary Project Recognition is awarded to those who worked on a project that had an outsized benefit to the company and its customers.  In 2021, I was part of the team that integrated OneSpan into our F&I Application.  OneSpan is a web-based signing platform; integrating it allowed paperwork to be signed when the buyer was not physically at the car dealership.  This was particularly timely in light of COVID lockdowns.</p>
-                    <br />
-                    <p>My particular part in this project was to build the two specs screens associated with the new service, building out the OneSpan reports processing, and helping with the processing to prepare the form and send it to OneSpan.</p>
-                </>
-            )
-        },
-        {
-            divId: 'exemplary-2022',
-            title: 'Exemplary Project Recognition 2022',
-            data: (
-                <>
-                    <p>The Exemplary Project Recognition is awarded to those who worked on a project that had an outsized benefit to the company and its customers.  In 2022, I was part of the team that integrated <a href="https://www.reyrey.com/solutions/online-retailing/virtual-retailing" target="_blank">Gubagoo</a> into the existing applications.  Gubagoo allows options selected by the buyer online to automatically populate deals that can be used by salespeople at the dealership.</p>
-                    <br />
-                    <p>My part in this project was to create the process by which specs settings selected on the Gubagoo server were synced with the specs settings selected on the F&I server.  This insured that calculations presented to the buyer would match those presented through the F&I application to the dealership.</p>
-                </>
-            )
-        },
-        {
-            divId: 'HFBC',
-            title: "Houston's First Baptist Church",
-            data: (
-                <>
-                    <p><a href="https://houstonsfirst.org/" target="_blank">Houston's First Baptis Church</a> has several locations throughout Houston.  I went to the Loop location, located at I-10 and the 610 West Loop.  During my time there, I went to various classes in the Summit Singles group, as well as teaching in the children's ministry.</p>
-                </>
-            )
-        },
-        {
-            divId: 'associate-dir',
-            title: 'Associate Director for Axiom Class',
-            data: (
-                <>
-                    <p>As Associate Director I participated in leadership meetings, helped plan events, made announcements, created the calendar, and generally was expected to be active and involved with the class.  I was also expected to provide a good example of Christian service to the class.</p>
-                </>
-            )
-        },
-        {
-            divId: 'kids-worship',
-            title: "Teacher for Kids' Worship",
-            data: (
-                <>
-                    <p>Kids' Worship should not be confused with regular Sunday School classes.  We did have those for the kids, but Kids' Worship was the group worship service, rather than the small group class.  Program generally involved many short segments of teaching, singing, videos, and playing games.  My job was to help with the teaching, which meant I would go over our Bible verse, Bible story, and "Life Point" with the kids, and generally facilitate the flow of the service.  When not on stage, I was in the audience monitoring behavior and helping when the kids needed something.</p>
-                </>
-            )
-        },
-        {
-            divId: 'obu',
-            title: 'Oklahoma Baptist University',
-            data: (
-                <>
-                    <p><a href="https://www.okbu.edu/" target="_blank">OBU</a> is a small, private Christian college in Shawnee, OK.  OBU is a liberal arts college, so I was expected to take courses in many different subjects while there, in addition to those specifically required for my major.  This included classes in history, literature, philosophy, sociology, and Biblical studies.  I did not have to take any science or math courses because I made a 5 of both the AP Calculus (BC) and AP Chemistry exams.  However, since I got a minor in Mathematics, I took math classes anyway.</p>
-                    <br />
-                    <p>As a theatre major, I took a wide variety of classes.  It was not just a bunch of acting classes, although I did have 4 of those.  I also took classes in scene design, lighting design, costume design, makeup design, directing, and theater history.  For my math minor, I took Calc 3, Calc 4, Differential Equations, and Numerical Analysis.</p>
-                </>
-            )
-        }
     ]
 };
 
