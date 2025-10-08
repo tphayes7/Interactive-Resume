@@ -27,6 +27,8 @@ function App() {
   document.getElementById('soft-skills').onclick = retrieveBoxData;
   document.getElementById('tutorcom-header').onclick = retrieveBoxData;
   document.getElementById('tutor').onclick = retrieveBoxData;
+  document.getElementById('hobbylobby-header').onclick = retrieveBoxData;
+  document.getElementById('intern-tier3').onclick = retrieveBoxData;
   document.getElementById('reyrey-header').onclick = retrieveBoxData;
   document.getElementById('app-dev').onclick = retrieveBoxData;
   document.getElementById('sales-admin').onclick = retrieveBoxData;
