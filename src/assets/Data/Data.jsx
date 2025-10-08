@@ -40,7 +40,7 @@ const boxData = {
                     <br />
                     <p>Although I found myself both enjoying and excelling at software development, I eventually had to leave for personal reasons.  After 15 years in Houston, I found that my community of friends had slowly evaporated over time, and so I decided to move back home to be closer to family.  Reynolds and Reynolds, unfortunately, was not willing to allow me to work fully remote, so I had to walk away from that position.</p>
                     <br />
-                    <p>And so, I found myself back in Oklahoma without a job.  To me, this seemed like an opportunity, because it allowed me to return to my alma mater for a degree in Computer Science.  Although I already have 4 years of professional software development experience, as well as additional training via Codecademy, I felt that pursuing a formal degree would help fill in some of the gaps in my software education.  Ultimately, I believe this will make me a better programmer, and I hope to further that development during my studies through an internship.</p>
+                    <p>And so, I found myself back in Oklahoma without a job.  To me, this seemed like an opportunity, because it allowed me to return to my alma mater for a degree in Computer Science.  Although I already have 4 years of professional software development experience, as well as additional training via Codecademy, I felt that pursuing a formal degree would help fill in some of the gaps in my software education.  My time at OBU also afforded me the opportunity to work a tech support internship at <a href="https://www.hobbylobby.com/" target="_blank">Hobby Lobby</a>, during which time I learned a lot about a side of computer science that I had less experience with.  Ultimately, I believe this process has made me a better programmer, and I hope to use this experience as I resume my software development career.</p>
                 </>
             )
         },
@@ -68,6 +68,11 @@ const boxData = {
                             </thead>
                             <tbody>
                                 <tr>
+                                    <td>Java</td>
+                                    <td className="text-align-center">9</td>
+                                    <td className="text-align-center">College, Codecademy</td>
+                                </tr>
+                                <tr>
                                     <td>C#</td>
                                     <td className="text-align-center">7</td>
                                     <td className="text-align-center">Codecademy</td>
@@ -75,37 +80,42 @@ const boxData = {
                                 <tr>
                                     <td>Javascript</td>
                                     <td className="text-align-center">8</td>
-                                    <td className="text-align-center">Codecademy</td>
+                                    <td className="text-align-center">College, Codecademy</td>
                                 </tr>
                                 <tr>
                                     <td>React</td>
                                     <td className="text-align-center">6</td>
-                                    <td className="text-align-center">Codecademy</td>
+                                    <td className="text-align-center">College, Codecademy</td>
                                 </tr>
                                 <tr>
                                     <td>Redux</td>
-                                    <td className="text-align-center">5</td>
-                                    <td className="text-align-center">Codecademy</td>
-                                </tr>
-                                <tr>
-                                    <td>HTML/CSS</td>
-                                    <td className="text-align-center">7</td>
-                                    <td className="text-align-center">High School, College, Codecademy</td>
-                                </tr>
-                                <tr>
-                                    <td>SQL</td>
-                                    <td className="text-align-center">5</td>
+                                    <td className="text-align-center">4</td>
                                     <td className="text-align-center">Codecademy</td>
                                 </tr>
                                 <tr>
                                     <td>Python</td>
-                                    <td className="text-align-center">5</td>
-                                    <td className="text-align-center">Codecademy</td>
+                                    <td className="text-align-center">7</td>
+                                    <td className="text-align-center">College, Codecademy</td>
                                 </tr>
                                 <tr>
-                                    <td>Java</td>
-                                    <td className="text-align-center">5</td>
-                                    <td className="text-align-center">Codecademy</td>
+                                    <td>Numpy</td>
+                                    <td className="text-align-center">4</td>
+                                    <td className="text-align-center">College</td>
+                                </tr>
+                                <tr>
+                                    <td>Pandas</td>
+                                    <td className="text-align-center">4</td>
+                                    <td className="text-align-center">College</td>
+                                </tr>
+                                <tr>
+                                    <td>HTML/CSS</td>
+                                    <td className="text-align-center">9</td>
+                                    <td className="text-align-center">High School, College, Codecademy</td>
+                                </tr>
+                                <tr>
+                                    <td>SQL</td>
+                                    <td className="text-align-center">6</td>
+                                    <td className="text-align-center">College, Codecademy</td>
                                 </tr>
                                 <tr>
                                     <td>COBOL</td>
@@ -180,6 +190,25 @@ const boxData = {
             data: (
                 <>
                     <p>As a tutor, I help students in a variety of math subjects.  This includes basic arithmetic, algebra I and II, and geometry, among others.</p>
+                </>
+            )
+        },
+        {
+            divId: 'hobbylobby-header',
+            title: 'Hobby Lobby',
+            data: (
+                <>
+                    <p><a href="https://www.hobbylobby.com/" target="_blank">Hobby Lobby</a> is a well-known arts and crafts store with branches across the United States.</p>
+                </>
+            )
+        },
+        {
+            divId: 'intern-tier3',
+            title: 'IT - Tier 3',
+            data: (
+                <>
+                    <p>As Tier 3 support, I worked to configure our Ivanti ticketing system.  This involved creation of new forms, writing regex expressions, writing scripts in javascript, and updating CSS documents.</p>
+                    <p>During my tenure, I spearheaded a project to integrate our Ecom Customer Service team into the platform.  This involved creation of new processes, objects, and relationships within the system.  Through this, both my trainer and I discovered functionality within the Ivanti system that allowed for things that we had previously thought were not possible.</p>
                 </>
             )
         },
