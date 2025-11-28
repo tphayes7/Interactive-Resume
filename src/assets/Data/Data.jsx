@@ -20,7 +20,7 @@ const boxData = {
             title: 'My Story',
             data: (
                 <>
-                    <p>If you just take a quick glance at my resume, you might be wondering what exactly it is that I do.  I've done a little bit of a lot of things:  theater, carpentry, teaching, administrative...  Right now I'm looking for a software development internship.  So, how exactly did I get here?  Well, that's a bit of a story:</p>
+                    <p>If you just take a quick glance at my resume, you might be wondering what exactly it is that I do.  I've done a little bit of a lot of things:  theater, carpentry, teaching, administrative...  Right now I'm looking for a software development position.  So, how exactly did I get here?  Well, that's a bit of a story:</p>
                     <br />
                     <p>Some people will tell you that people are naturally either logical or creative, left-brained or right-brained.  Personally, I've always been a bit of both.  I enjoyed math and science as a kid, but I also always liked to create things and use my imagination.  As an illustration, here was my class lineup my senior year in high school:  AP Calculus (BC), AP Chemistry, AP Physics, Advanced Programming, and Drama IV.  All my teachers thought I should go into their respective fields, but ultimately I decided on theater.</p>
                     <br />
@@ -158,7 +158,7 @@ const boxData = {
             title: 'Dev Tools',
             data: (
                 <>
-                    <p>At Reynolds and Reynolds we had our own IDE that was built in-house, and it had built-in version management software that updated repositories stored on our own servers.  So while I'm familiar with a lot of the concepts associated with other IDEs, Git, and Github, I have only used them for my own personal projects.  This page was created using Visual Studio Code, and is stored on a private GitHub repository.</p>
+                    <p>At Reynolds and Reynolds we had our own IDE that was built in-house, and it had built-in version management software that updated repositories stored on our own servers.  So while I'm familiar with a lot of the concepts associated with other IDEs, Git, and Github, I have only used them for my own personal projects and for school.  Other developer tools include use of Chrome Dev Tools for debugging web applications, Postman for testing back end processes, and PostgreSQL for SQL databases.  This page was created using Visual Studio Code, and is stored on a private GitHub repository.</p>
                     <br />
                     <p>As for Microsoft Office, I've been using Word and Excel since I was in junior high for various school, work, and personal activities.  I grew up with these programs, and would consider myself to be highly proficient with them.</p>
                     <br />
@@ -171,7 +171,7 @@ const boxData = {
             title: 'Soft Skills',
             data: (
                 <>
-                    <p>As they say in Houston, "This ain't my first rodeo."  I've been working in some capacity since I was in college, about 20 years ago.  Over the years I've run into my fair share of challenges to overcome, difficult conversations, and been tempted many times to cut corners or pass the buck.  But at the end of the day, I'd rather go into the office, do good work, and go home feeling like I accomplished something, rather than spending all day avoiding my responsibilities.  I strive to communicate both thoroughly and respectfully, and would much prefer to see my coworkers as friends and colleagues than as rivals.  If this is the kind of environment you want to cultivate, I like to think I'd be a good addition to your team.</p>
+                    <p>As they say in Houston, "This ain't my first rodeo."  I've been working in some capacity since I was first in college, about 20 years ago.  Over the years I've run into my fair share of challenges to overcome, difficult conversations, and been tempted many times to cut corners or pass the buck.  But at the end of the day, I'd rather go into the office, do good work, and go home feeling like I accomplished something, rather than spending all day avoiding my responsibilities.  I strive to communicate both thoroughly and respectfully, and would much prefer to see my coworkers as friends and colleagues than as rivals.  If this is the kind of environment you want to cultivate, I like to think I'd be a good addition to your team.</p>
                 </>
             )
         },
@@ -189,7 +189,7 @@ const boxData = {
             title: 'Tutor',
             data: (
                 <>
-                    <p>As a tutor, I help students in a variety of math subjects.  This includes basic arithmetic, algebra I and II, and geometry, among others.</p>
+                    <p>As a tutor, I help students in a variety of math subjects.  This includes basic arithmetic, algebra I and II, and geometry, among others.  I also help students with computer programming, typically in introductory Python, Java, and C#.</p>
                 </>
             )
         },
